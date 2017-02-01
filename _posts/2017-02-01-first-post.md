@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome!
-image: /img/hello_world.jpeg
+image: /img/logo.jpg
 author: Gustavo Burin
 tags: [hello-world, first]
 ---
