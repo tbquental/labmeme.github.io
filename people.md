@@ -21,7 +21,7 @@ subtitle: Who we are
 
 <img src="/img/lrva.png" alt="Laura" style="width: 256px; height: 454px;"/> 
 
-#### TEXTO
+#### My research combines natural history, morphological, geographical and phylogenetic information with the application of statistical models to understand the patterns and processes shaping the radiation of reptiles and amphibians. At LabMeMe we are currently investigating what determines the coexistence patterns among squamates at global and large-temporal scales.
 
 
 
