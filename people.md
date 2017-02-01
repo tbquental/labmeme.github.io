@@ -7,18 +7,67 @@ subtitle: Who we are
 
 # Principal Investigator
 
-## Tiago Bosisio Quental (tbquental@usp.br)
+### Tiago Quental (tbquental@usp.br)
 
-![Tiago](/img/tbq.jpg)
+<img src="/img/tbq.jpg" alt="Tiago" style="width: 256px; height: 171px;"/> 
 
-### I am an evolutionary ecologist interested in a spatial and temporal understanding of biodiversity patterns and phenotypic evolution.
+#### I am an evolutionary ecologist interested in a spatial and temporal understanding of biodiversity patterns and phenotypic evolution.
 
 *** 
 
-# PhD Students
+# Post-docs
 
-## [Gustavo Burin Ferreira](https://gburin.github.io) (gustavoburin@usp.br)
+### [Laura Alencar](http://alencarlaura.weebly.com/) (alencarlrv@gmail.com)
 
-![Ari](/img/gbf.jpg)
+![Laura](/img/lrva.jpg)
 
-### I am interested in assessing how biological interactions affect the diversification dynamics of different groups.
+#### TEXTO
+
+
+
+
+### [Mathias Pires](http://www.mathiasmpires.net.br/Home.html)
+
+<img src="/img/mmp.jpg" alt="Mathias" style="width: 256px; height: 161px;"/> 
+
+#### TEXTO
+
+
+
+
+
+***
+
+# Grad Students
+
+### [Gustavo Burin](https://gburin.github.io) (gustavoburin@usp.br)
+
+<img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 256px;"/> 
+ 
+#### I am interested in assessing how biological interactions affect the diversification dynamics of different groups.
+
+***
+
+### Matheus Januario (mjlopessousa@gmail.com)
+
+![Matheus](/img/mjls.jpg)
+
+#### TEXTO
+
+***
+
+# Undergrad Students
+
+### Rodolfo Graciotti (rpgraciotti@gmail.com)
+
+![Rodolfo](/img/rpg.jpg)
+
+#### TEXTO
+
+
+
+### Nathália Caldeira
+
+![Nathalia](/img/nc.jpg)
+
+#### TEXTO
