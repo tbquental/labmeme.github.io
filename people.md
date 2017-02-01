@@ -4,7 +4,6 @@ title: People
 subtitle: Who we are
 ---
 
-
 # Principal Investigator
 
 ### Tiago Quental (tbquental@usp.br)
