@@ -2,6 +2,7 @@
 layout: post
 title: Welcome!
 image: /img/hello_world.jpeg
+author: Gustavo Burin
 tags: [random, exciting-stuff]
 ---
 
