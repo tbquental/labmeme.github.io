@@ -9,9 +9,12 @@ subtitle: Who we are
 
 ### Tiago Quental (tbquental@usp.br)
 
-<img src="/img/tbq.jpg" alt="Tiago" style="width: 256px; height: 171px;"/> 
+<center><img src="/img/tbq.jpg" alt="Tiago" style="width: 256px; height: 171px;"/></center>
 
-#### I am an evolutionary ecologist interested in a spatial and temporal understanding of biodiversity patterns and phenotypic evolution.
+<p align="justify">
+<b>I am an evolutionary ecologist interested in a spatial and temporal understanding of biodiversity patterns and phenotypic evolution.</b>
+</p>
+
 
 *** 
 
@@ -19,19 +22,21 @@ subtitle: Who we are
 
 ### [Laura Alencar](http://alencarlaura.weebly.com/) (alencarlrv@gmail.com)
 
-<img src="/img/lrva.png" alt="Laura" style="width: 256px; height: 454px;"/> 
+<center><img src="/img/lrva.png" alt="Laura" style="width: 256px; height: 454px;"/></center>
 
-#### My research combines natural history, morphological, geographical and phylogenetic information with the application of statistical models to understand the patterns and processes shaping the radiation of reptiles and amphibians. At LabMeMe we are currently investigating what determines the coexistence patterns among squamates at global and large-temporal scales.
-
+<p align="justify">
+<b>My research combines natural history, morphological, geographical and phylogenetic information with the application of statistical models to understand the patterns and processes shaping the radiation of reptiles and amphibians. At LabMeMe we are currently investigating what determines the coexistence patterns among squamates at global and large-temporal scales.</b>
+</p>
 
 
 
 ### [Mathias Pires](http://www.mathiasmpires.net.br/Home.html)
 
-<img src="/img/mmp.jpg" alt="Mathias" style="width: 256px; height: 161px;"/> 
+<center><img src="/img/mmp.jpg" alt="Mathias" style="width: 256px; height: 161px;"/></center>
 
-#### TEXTO
-
+<p align="justify">
+TEXTO
+</p>
 
 
 
@@ -42,17 +47,21 @@ subtitle: Who we are
 
 ### [Gustavo Burin](https://gburin.github.io) (gustavoburin@usp.br)
 
-<img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 256px;"/> 
+<center><img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 256px;"/></center>
  
-#### I am interested in assessing how biological interactions affect the diversification dynamics of different groups.
+<p align="justify">
+<b>I am interested in assessing how biological interactions affect the diversification dynamics of different groups.</b>
+</p>
 
 ***
 
 ### Matheus Januario (mjlopessousa@gmail.com)
 
-![Matheus](/img/mjls.jpg)
+<center><img src="/img/mjls.jpg" alt="Matheus" style="width: 256px; height: 256px;"/></center>
 
-#### TEXTO
+<p align="justify">
+TEXTO
+</p>
 
 ***
 
@@ -60,14 +69,17 @@ subtitle: Who we are
 
 ### Rodolfo Graciotti (rpgraciotti@gmail.com)
 
-![Rodolfo](/img/rpg.jpg)
+<center><img src="/img/rpg.jpg" alt="Rodolfo" style="width: 256px; height: 256px;"/></center>
 
-#### TEXTO
-
+<p align="justify">
+TEXTO
+</p>
 
 
 ### Nathália Caldeira
 
-![Nathalia](/img/nc.jpg)
+<center><img src="/img/nc.jpg" alt="Nathalia" style="width: 256px; height: 256px;"/></center>
 
-#### TEXTO
+<p align="justify">
+TEXTO
+</p>
