@@ -19,7 +19,7 @@ subtitle: Who we are
 
 ### [Laura Alencar](http://alencarlaura.weebly.com/) (alencarlrv@gmail.com)
 
-![Laura](/img/lrva.jpg)
+<img src="/img/lrva.jpg" alt="Laura" style="width: 256px; height: 454px;"/> 
 
 #### TEXTO
 
