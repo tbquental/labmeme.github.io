@@ -3,7 +3,7 @@ layout: post
 title: Welcome!
 image: /img/hello_world.jpeg
 author: Gustavo Burin
-tags: [random, exciting-stuff]
+tags: [hello-world, first]
 ---
 
 Welcome to our brand new website! We hope you find all the information
