@@ -6,7 +6,7 @@ subtitle: Get in touch
 
 <center><img src="/img/lab.jpg" alt="Tiago" style="width: 512px; height: 384px;"/></center>
 
-### e-mail: tbquental@gmail.com
+### e-mail: tbquental@usp.br
 
 <p align="left">
 Departamento de Ecologia - Instituto de Biociências (IB)<br>
