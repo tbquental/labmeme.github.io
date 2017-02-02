@@ -4,6 +4,8 @@ title: About us
 subtitle: A little about our lab
 ---
 
+<center><img src="/img/shapeimage_2.png" alt="Yeah"/></center>
+
 <p align="justify">
 In the Macroevolution and Macroecology Lab (LabMeMe) we focus on understanding spatial and temporal patterns of biodiversity and the mechanisms responsible for generating species diversity. Our research is not limited to any specific taxonomic group but is instead motivated and organized by particular research questions. To investigate these questions we use molecular phylogenies, the fossil record, ecological data, and numerical simulation.
 </p>
