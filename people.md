@@ -13,7 +13,8 @@ subtitle: Who we are
 <center><img src="/img/tbq.jpg" alt="Tiago" style="width: 256px; height: 171px;"/></center>
 
 <p align="justify">
-<b>I am an evolutionary ecologist interested in a spatial and temporal understanding of biodiversity patterns and phenotypic evolution.</b>
+I am an evolutionary ecologist interested in a spatial and temporal
+understanding of biodiversity patterns and phenotypic evolution.
 </p>
 
 
@@ -28,7 +29,12 @@ subtitle: Who we are
 <center><img src="/img/lrva.png" alt="Laura" style="width: 256px; height: 454px;"/></center>
 
 <p align="justify">
-<b>My research combines natural history, morphological, geographical and phylogenetic information with the application of statistical models to understand the patterns and processes shaping the radiation of reptiles and amphibians. At LabMeMe we are currently investigating what determines the coexistence patterns among squamates at global and large-temporal scales.</b>
+My research combines natural history, morphological, geographical
+and phylogenetic information with the application of statistical
+models to understand the patterns and processes shaping the radiation
+of reptiles and amphibians. At LabMeMe we are currently investigating
+what determines the coexistence patterns among squamates at global and
+large-temporal scales.
 </p>
 
 
@@ -59,10 +65,20 @@ dynamics of mammalian lineages.
 
 #### gustavoburin@usp.br
 
-<center><img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 256px;"/></center>
+<center><img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 341px;"/></center>
  
 <p align="justify">
-<b>I am interested in assessing how biological interactions affect the diversification dynamics of different groups.</b>
+I am a fourth(last)-year Ph.D. candidate at the University of São
+Paulo. My main interests are related to trait-dependent diversification
+(in particular in my Ph.D. project), and to how biological interactions affect the
+diversification dynamics of different groups. Ohter research interests
+are related to assessing the influence of total biomass availability
+(with Net Primary Productivity and Biome area as proxies) on the
+diversification of different groups of vertebrates, as well as trying
+to understand how some groups can achieve a huge species diversity. I am also interested in
+method development and performance testing. Lastly, I am an open
+science enthusiast, and want to start blogging about it, general science and
+my personal interests in the near future.
 </p>
 
 ***
@@ -88,10 +104,10 @@ TEXTO
 <center><img src="/img/rpg.jpg" alt="Rodolfo" style="width: 256px; height: 455px;"/></center>
 
 <p align="justify">
-Graduando em Ciências Biológicas pela Universidade de São Paulo. Tenho
-interesse em compreender os processos macroevolutivos que moldaram a
-diversidade ao longo do tempo geológico, com atual enfoque na família
-Equidae (Mammalia).
+I am an undergraduate student in Biology at the University of São
+Paulo. I am interested in comprehending the macroevolutionary
+processes that shaped diversity in deep time, with special focus on
+the Equidae (Mammalia) family.
 </p>
 
 
