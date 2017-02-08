@@ -39,7 +39,7 @@ large-temporal scales.
 
 
 
-### [Mathias Pires](http://www.mathiasmpires.net.br/Home.html){:target="_blank"}
+### [Mathias Pires](http://www.mathiasmpires.net.br){:target="_blank"}
 
 #### mathiasmpires@gmail.com
 
