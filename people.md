@@ -87,7 +87,7 @@ my personal interests in the near future.
 
 #### mjlopessousa@gmail.com
 
-<center><img src="/img/mjls.jpg" alt="Matheus" style="width: 256px; height: 256px;"/></center>
+<center><img src="/img/mjls.png" alt="Matheus" style="width: 256px; height: 256px;"/></center>
 
 <p align="justify">
 My aim is to understand the role of extinction in the diversification
