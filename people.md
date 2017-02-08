@@ -90,7 +90,8 @@ my personal interests in the near future.
 <center><img src="/img/mjls.jpg" alt="Matheus" style="width: 256px; height: 256px;"/></center>
 
 <p align="justify">
-TEXTO
+My aim is to understand the role of extinction in the diversification
+dynamics of Ruminants.
 </p>
 
 ***
