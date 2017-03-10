@@ -18,7 +18,7 @@ understanding of biodiversity patterns and phenotypic evolution.
 </p>
 
 
-*** 
+***
 
 # Post-docs
 
@@ -66,7 +66,7 @@ dynamics of mammalian lineages.
 #### gustavoburin@usp.br
 
 <center><img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 341px;"/></center>
- 
+
 <p align="justify">
 I am a fourth(last)-year Ph.D. candidate at the University of São
 Paulo. My main interests are related to trait-dependent diversification
@@ -117,5 +117,9 @@ the Equidae (Mammalia) family.
 <center><img src="/img/nc.jpg" alt="Nathalia" style="width: 256px; height: 256px;"/></center>
 
 <p align="justify">
-TEXTO
+I’m an undergraduate student still trying to find my way through the
+fascinating world of macroevolution. As of now, my broader interests
+are: how extinction shapes biodiversity, mass extinctions aftermath
+and recovery of biodiversity, how biodiversity in the sea and in land
+differ, and links between micro and macroevolution.
 </p>
