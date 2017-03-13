@@ -114,7 +114,7 @@ the Equidae (Mammalia) family.
 
 ### Nathália Caldeira
 
-<center><img src="/img/nc.jpg" alt="Nathalia" style="width: 256px; height: 256px;"/></center>
+<center><img src="/img/nc.jpeg" alt="Nathalia" style="width: 256px; height: 343px;"/></center>
 
 <p align="justify">
 I’m an undergraduate student still trying to find my way through the
