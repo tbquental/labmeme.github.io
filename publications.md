@@ -3,6 +3,18 @@ layout: page
 title: Publications
 subtitle: Main papers from the lab crew (highlighted in bold)
 ---
+## 2017
+
+[**Alencar, L. R. V.**, Martins, M., **Burin, G.**, **Quental, T. B.**, 2017. Arboreality constrains morphological evolution but not species diversification in vipers. Proceedings of the Royal Society B 284(1869), 20171775](http://rspb.royalsocietypublishing.org/content/284/1869/20171775)
+
+[**Quental, T. B.**, 2017. Biota turnovers from phylogenies. Nature Ecology & Evolution 1(12):1796](https://www.nature.com/articles/s41559-017-0363-8)
+
+[Hagen, O., Andermann, T., **Quental, T. B.**, Antonelli, A., Silvestro, D., 2017. Estimating age-dependent extinction: contrasting evidence from fossils and phylogenies. Systematic Biology](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syx082/4563320)
+
+[**Pires, M. M.**, Silvestro, D., **Quental, T. B.**, 2017. Interactions within and between clades shaped the diversification of terrestrial carnivores. Evolution 71(7):1855-1864](http://onlinelibrary.wiley.com/doi/10.1111/evo.13269/full)
+
+[Silvestro, D., **Pires, M. M.**, **Quental, T. B.**, Salamin, N., 2017. Bayesian estimation of multiple clade competition from fossil data. Evolutionary Ecology Research 18(1):41-59](http://www.evolutionary-ecology.com/abstracts/v18/3010.html)
+
 
 ## 2016
 
