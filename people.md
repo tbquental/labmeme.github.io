@@ -38,6 +38,73 @@ large-temporal scales.
 </p>
 
 
+### [Gustavo Burin](https://www.gburin.com){:target="_blank"}
+
+#### gustavoburin@usp.br
+
+<center><img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 341px;"/></center>
+
+<p align="justify">
+My main interests are related to trait-dependent diversification
+, and to how biological interactions affect the
+diversification dynamics of different groups. Ohter research interests
+are related to assessing the influence of total biomass availability
+(with Net Primary Productivity and Biome area as proxies) on the
+diversification of different groups of vertebrates, as well as trying
+to understand how some groups can achieve a huge species diversity. I am also interested in
+method development and performance testing. Lastly, I am an open
+science enthusiast, and want to start blogging about it, general science and
+my personal interests in the near future.
+</p>
+
+***
+
+# Grad Students
+
+### Matheus Januario
+
+#### mjlopessousa@gmail.com
+
+<center><img src="/img/mjls.png" alt="Matheus" style="width: 256px; height: 288px;"/></center>
+
+<p align="justify">
+My aim is to understand the role of extinction in the diversification
+dynamics of Ruminants.
+</p>
+
+### Rodolfo Graciotti
+
+#### rpgraciotti@gmail.com
+
+<center><img src="/img/rpg.jpg" alt="Rodolfo" style="width: 256px; height: 455px;"/></center>
+
+<p align="justify">
+I am an undergraduate student in Biology at the University of São
+Paulo. I am interested in comprehending the macroevolutionary
+processes that shaped diversity in deep time, with special focus on
+the Equidae (Mammalia) family.
+</p>
+
+
+
+***
+
+# Undergrad Students
+
+### Nathália Caldeira
+
+<center><img src="/img/nc.jpeg" alt="Nathalia" style="width: 256px; height: 343px;"/></center>
+
+<p align="justify">
+I’m an undergraduate student still trying to find my way through the
+fascinating world of macroevolution. As of now, my broader interests
+are: how extinction shapes biodiversity, mass extinctions aftermath
+and recovery of biodiversity, how biodiversity in the sea and in land
+differ, and links between micro and macroevolution.
+</p>
+
+
+# Alumni
 
 ### [Mathias Pires](http://www.mathiasmpires.net.br){:target="_blank"}
 
@@ -55,71 +122,5 @@ dynamics of mammalian lineages.
 </p>
 
 
-
-
 ***
 
-# Grad Students
-
-### [Gustavo Burin](https://gburin.github.io){:target="_blank"}
-
-#### gustavoburin@usp.br
-
-<center><img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 341px;"/></center>
-
-<p align="justify">
-I am a fourth(last)-year Ph.D. candidate at the University of São
-Paulo. My main interests are related to trait-dependent diversification
-(in particular in my Ph.D. project), and to how biological interactions affect the
-diversification dynamics of different groups. Ohter research interests
-are related to assessing the influence of total biomass availability
-(with Net Primary Productivity and Biome area as proxies) on the
-diversification of different groups of vertebrates, as well as trying
-to understand how some groups can achieve a huge species diversity. I am also interested in
-method development and performance testing. Lastly, I am an open
-science enthusiast, and want to start blogging about it, general science and
-my personal interests in the near future.
-</p>
-
-***
-
-### Matheus Januario
-
-#### mjlopessousa@gmail.com
-
-<center><img src="/img/mjls.png" alt="Matheus" style="width: 256px; height: 288px;"/></center>
-
-<p align="justify">
-My aim is to understand the role of extinction in the diversification
-dynamics of Ruminants.
-</p>
-
-***
-
-# Undergrad Students
-
-### Rodolfo Graciotti
-
-#### rpgraciotti@gmail.com
-
-<center><img src="/img/rpg.jpg" alt="Rodolfo" style="width: 256px; height: 455px;"/></center>
-
-<p align="justify">
-I am an undergraduate student in Biology at the University of São
-Paulo. I am interested in comprehending the macroevolutionary
-processes that shaped diversity in deep time, with special focus on
-the Equidae (Mammalia) family.
-</p>
-
-
-### Nathália Caldeira
-
-<center><img src="/img/nc.jpeg" alt="Nathalia" style="width: 256px; height: 343px;"/></center>
-
-<p align="justify">
-I’m an undergraduate student still trying to find my way through the
-fascinating world of macroevolution. As of now, my broader interests
-are: how extinction shapes biodiversity, mass extinctions aftermath
-and recovery of biodiversity, how biodiversity in the sea and in land
-differ, and links between micro and macroevolution.
-</p>
