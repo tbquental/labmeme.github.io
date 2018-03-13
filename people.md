@@ -130,7 +130,7 @@ dynamics of mammalian lineages. I am now an associate professor at UNICAMP.
 
 ####  maurotcs@gmail.com
 
-<center><img src="/img/mauro_sugawara.jpg" alt="Toshiba" style="width: 256px; height: 266px;"/></center>
+<center><img src="/img/mauro_sugawara.jpg" alt="Toshiba" style="height: 266px;"/></center>
 
 <p align="justify">
 Mauro finished his MSc. in 2015. He worked with the diversification dynamics of Placentalia, integrating data from the fossil record and from molecular phylogenies trying to identify which mammal orders are in decline of diversity. He is now a PhD. candidate at the University of British Columbia in <a href="http://mwpennell.github.io/">Dr. Matt Pennell's lab</a>.
@@ -143,7 +143,7 @@ Mauro finished his MSc. in 2015. He worked with the diversification dynamics of 
 
 #### danielvdelatorre@gmail.com
 
-<center><img src="/img/daniel_latorre.jpg" alt="Semvê" style="width: 256px; height: 266px;"/></center>
+<center><img src="/img/daniel_latorre.jpg" alt="Semvê" style="height: 266px;"/></center>
 
 <p align="justify">
 Daniel finished his MSc. in 2015. In his thesis, he aimed to assess the macroecological patterns of morphological disparity and body mass distribuition in mammals. He is now a PhD. candidate at the University of California Berkeley in <a href="https://ib.berkeley.edu/labs/marshall/">Dr. Charles Marshall's lab</a>.
