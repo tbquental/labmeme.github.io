@@ -120,7 +120,33 @@ of biological extinctions. My current research project aims to
 understand macroevolutionary consequences of ecological interactions,
 more specifically, the interactions between immigrant and resident
 species and the role of these interactions in shaping diversification
-dynamics of mammalian lineages.
+dynamics of mammalian lineages. I am now an associate professor at UNICAMP.
+</p>
+
+
+***
+
+### [Mauro Sugawara](https://github.com/maurotcs){:target="_blank"}
+
+####  maurotcs@gmail.com
+
+<center><img src="/img/mauro_sugawara.jpg" alt="Toshiba" style="width: 256px; height: 266px;"/></center>
+
+<p align="justify">
+Mauro finished his MSc. in 2015. He worked with the diversification dynamics of Placentalia, integrating data from the fossil record and from molecular phylogenies trying to identify which mammal orders are in decline of diversity. He is now a PhD. candidate at the University of British Columbia in [Dr. Matt Pennell's lab](http://mwpennell.github.io/).
+</p>
+
+
+***
+
+### [Daniel Latorre](https://github.com/dvlatorre){:target="_blank"}
+
+#### danielvdelatorre@gmail.com
+
+<center><img src="/img/daniel_latorre.jpg" alt="Semvê" style="width: 256px; height: 266px;"/></center>
+
+<p align="justify">
+Daniel finished his MSc. in 2015. In his thesis, he aimed to assess the macroecological patterns of morphological disparity and body mass distribuition in mammals. He is now a PhD. candidate at the University of California Berkeley in [Dr. Charles Marshall's lab](https://ib.berkeley.edu/labs/marshall/).
 </p>
 
 
