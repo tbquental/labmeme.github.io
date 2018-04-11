@@ -105,6 +105,11 @@ differ, and links between micro and macroevolution.
 
 ### Luan Motta
 
+<center><img src="/img/photo_luan.jpg" alt="Luan" style="width: 256px; "/></center>
+
+<p align="justify">
+Luan has just joined the lab and has a general interest in macroevolution.
+</p>
     
 # Alumni
 
