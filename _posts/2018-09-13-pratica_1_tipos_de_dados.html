@@ -1,0 +1,39 @@
+---
+title: "Visualização de dados filogenéticos e fósseis - BIE5751"
+date: 2018-09-13
+categories: ["R"]
+tags: ["R", "Tutorial", "Macroevolução", "Visualização"]
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    highlight: zenburn
+---
+
+
+
+<p>A ideia por trás desse tutorial é ter um primeiro contato com os tipos principais de dados usados em Macroevolução. Os exercícios propostos aqui serão retomados com maior detalhe no próximo tutorial, que será feito diretamente no R, então no momento não se preocupe em saber <em>como</em> as coisas são feitas, e busque só se familiarizar com os diferentes tipos de dados.</p>
+<p>Usaremos uma ferramenta interativa que permite a visualização instantânea e simplificada de comandos do R, usando o pacote <em>shiny</em>. Esta ferramenta ainda está em desenvolvimento, então por favor nos avise dos possíveis problemas que encontrarem ao longo da aula para que possamos arrumá-los em versões futuras!</p>
+<p>O código necessário para usar a ferramenta está <a href="https://resources.gburin.com">neste arquivo</a>. Você deve salvá-lo no diretório de sua escolha, e clicar duas vezes para abrí-lo no RStudio. No topo da janela do arquivo com o código, clique no botão escrito “Run App” para rodar a ferramenta.</p>
+<div id="filogenias-moleculares" class="section level1">
+<h1>Filogenias Moleculares</h1>
+<p>Com a ferramenta aberta e <del>espero que</del> funcionando, vamos simular filogenias que resultam de diferentes combinações entre taxas de especiação e extinção. Por enquanto usaremos apenas modelos de taxas constantes ao longo do tempo por simplicidade, mas mais para frente no curso veremos que essa condição pode ser relaxada de diferentes formas.</p>
+<div id="nascimento-puro-pure-birth-ou-yule" class="section level2">
+<h2>Nascimento puro (Pure Birth ou Yule)</h2>
+<p>Os parâmetros definidos por padrão na ferramenta já estão prontos para serem usados em simulações de um processo de nascimento puro (Pure birth). Para gerar uma nova simulação, basta clicar no botão “Rodar Simulação”. Cada vez que você clicar, uma nova simulação será feita e plotada na mesma janela. A ferramenta plota duas filogenias: a de cima é a filogenia completa e a de baixo é a filogenia molecular. Ainda, existe um checkbox com a opção “Mostrar LTT Plot”, que quando marcado plota também um gráfico com o número de linhagens vivas ao longo do tempo. Por fim, o botão gerar relatório <del>deveria gerar</del> gera um pequeno relatório da simulação plotada, porém esta funcionalidade não está 100% livre de problemas, então usem com cuidado.</p>
+<div id="section" class="section level3">
+<h3></h3>
+<p>Inicialmente, simule e analise calmamente uma árvore usando as taxas padrão (lembre-se de nesse passo não alterar as taxas de extinção, que devem permanecer em 0). Observe que as duas filogenias plotadas são sempre idênticas. Por que isso acontece?</p>
+<p>Em seguida, repita o processo acima algumas vezes sem mexer nos parâmetros. O que é possível dizer sobre o número de espécies final das filogenias geradas? E sobre as curvas de diversidade?</p>
+<p>No próximo passo, a ideia é comparar a interação entre a taxa de especiação e a idade do clado. Antes de simular, qual é a expectativa que você tem sobre isso? Para analisarmos os efeitos nas árvores, você deve simular algumas árvores com uma mesma taxa de especiação e idade, e depois alterar (aumentar mas não muito) a idade do clado simulado, mantendo a taxa de especiação sem alterações. Faça isso para diferentes valores de especiação também, porém cuidado ao usar valores muito altos pois o R pode travar.</p>
+</div>
+</div>
+<div id="nascimento-e-morte-birth-death" class="section level2">
+<h2>Nascimento e morte (Birth-Death)</h2>
+<p>Nesta parte do tutorial, vamos analisar como a extinção afeta a filogenia. Inicialmente, ajuste a taxa de especiação para 0.3 e aumente a taxa de extinção para 0.1. Com essa combinação de taxas, o “saldo” de diversificação (especiação - extinção) é positivo no mesmo valor que iniciamos a parte anterior do tutorial, porém agora a extinção desempenha seu papel. Comparando as duas filogenias plotadas (com especial atenção na filogenia molecular), o que se pode dizer sobre a assinatura que a extinção deixa nessas filogenias e nas curvas de diversidade?</p>
+<p>Simule também árvores geradas por diferentes combinações de especiação e extinção. Novamente, cuidado com a combinação dos parâmetros, pois valores muito extremos podem fazer o R travar. Por fim, rode simulações com a taxa de extinção sendo maior que a taxa de especiação. O que acontece, e por que?</p>
+</div>
+</div>
+<div id="registro-fossil" class="section level1">
+<h1>Registro Fóssil</h1>
+</div>
