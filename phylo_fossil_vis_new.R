@@ -158,7 +158,7 @@ server <- function(input, output) {
         plot(sim.phylo.res$phy, edge.col = makeTransparent("blue", alpha = 90), show.tip.label = FALSE, edge.width = 3);axisPhylo()
         ltt.plot(sim.phylo.res$phy, log = "y", ylab = "Número de Espécies", xlab = "Tempo", main = "Filogenia Completa")
         plot(drop.fossil(sim.phylo.res$phy), edge.col = makeTransparent("blue", alpha = 90), show.tip.label = FALSE, edge.width = 3);axisPhylo()
-        ltt.plot(drop.fossil(sim.phylo.res$phy), log = "y", ylab = "Número de Espécies", xlab = "Tempo", main = "Filogenia Molecular")
+        ltt.plot(drop.fossil(sim.phylo.res$phy), log = "y", ylab = "Número Cumulativo de Espécies", xlab = "Tempo", main = "Filogenia Molecular")
         })
     output$report.phylo <- downloadHandler(
         filename = function(){
@@ -228,7 +228,8 @@ server <- function(input, output) {
         ggplot(data = aggregate(fossil.sim$lin[[2]]$samp.times, by = list(fossil.sim$lin[[2]]$taxon.id), FUN = function(x){diff(range(x))})) +
             geom_histogram(aes(x = x)) +
             theme(legend.position = "none") +
-            labs(x = "Duração da Linhagem (Milhões de Anos)")
+            labs(x = "Duração da Linhagem (Milhões de Anos)") +
+            xlim(min(fossil.sim$lin[[1]]$orig.time - fossil.sim$lin[[1]]$ext.time), max(fossil.sim$lin[[1]]$orig.time - fossil.sim$lin[[1]]$ext.time))
     })
     output$report.fossil <- downloadHandler(
         filename = function(){
@@ -247,8 +248,3 @@ server <- function(input, output) {
 app <- shinyApp(ui = ui, server = server)
 
 runApp(app)
-
-
-### gerar relatório
-### summary da duração das espécies
-### simular árvores com declínio para evidenciar padrões do ltt plot
