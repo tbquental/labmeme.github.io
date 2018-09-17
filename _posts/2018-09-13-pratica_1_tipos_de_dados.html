@@ -1,6 +1,6 @@
 ---
 title: "Visualização de dados filogenéticos e fósseis - BIE5751"
-date: 2018-09-13
+date: 2018-09-17
 categories: ["R"]
 tags: ["R", "Tutorial", "Macroevolução", "Visualização"]
 output:
@@ -37,7 +37,7 @@ output:
 </div>
 <div id="nascimento-e-morte-birth-death" class="section level2">
 <h2>Nascimento e morte (Birth-Death)</h2>
-<p>Nesta parte do tutorial, vamos analisar como a extinção afeta a filogenia (e consequentemente as curvas de diversidade).</p>
+<p>Nesta parte do tutorial, vamos analisar como a extinção afeta a filogenia (e consequentemente as curvas de diversidade e os LTT plots).</p>
 <div id="simulacoes-1" class="section level3">
 <h3>Simulações</h3>
 <p>Inicialmente, ajuste a taxa de especiação para <strong>0.3</strong> e aumente a taxa de extinção para <strong>0.1</strong>, e também ajuste o tempo para <strong>20</strong>. Note que com essa combinação de taxas, o “saldo” de diversificação (especiação - extinção) é positivo e com igual valor (<strong>0.2</strong>) ao que iniciamos a parte anterior do tutorial, porém agora com efeito da extinção. Comparando as duas filogenias plotadas (com especial atenção na filogenia molecular, no gráfico de baixo), o que se pode dizer sobre a assinatura que a extinção deixa nessas filogenias e nas curvas de diversidade? Repita este procedimento algumas vezes para ganhar intuição sobre o processo.</p>
@@ -56,7 +56,7 @@ output:
 <blockquote>
 <p>Importante: as funções de simulação de registro fóssil são mais lentas do que as funções para gerar filogenias. Sendo assim, ao clicar nos botões para gerar as simulações, espere alguns segundos para que a simulação seja terminada, pois no caso de repetidos cliques no botão de simulação, o R pode travar.</p>
 </blockquote>
-<p>Para cada simulação serão plotados 3 gráficos: o primeiro (painel esquerdo) representa a duração ou as ocorrências das linhagens simuladas (que podem ser observadas usando o botão de seleção “Tipo de Gráfico”); no painel esquerdo, dividido em 2, serão plotados histogramas das durações (em milhões de anos) das espécies da simulação. O painel superior representa as durações sabendo-se o exato momento de surgimento e desaparecimento das espécies, enquanto que o painel inferior representa as durações calculadas a partir da primeira e última ocorrências dos fósseis.</p>
+<p>Para cada simulação serão plotados 3 gráficos: o primeiro (painel esquerdo) representa a duração ou as ocorrências das linhagens simuladas (que podem ser observadas usando o botão de seleção “Tipo de Gráfico”); no painel direito, dividido em 2, serão plotados histogramas das durações (em milhões de anos) das espécies da simulação. O painel superior representa as durações sabendo-se o exato momento de surgimento e desaparecimento das espécies, enquanto que o painel inferior representa as durações calculadas a partir da primeira e última ocorrências dos fósseis.</p>
 <div id="nascimento-puro-pure-birth-ou-yule-1" class="section level2">
 <h2>Nascimento Puro (Pure Birth ou Yule)</h2>
 <div id="simulacoes-2" class="section level3">
