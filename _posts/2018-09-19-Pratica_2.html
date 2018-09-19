@@ -287,14 +287,74 @@ button.code-folding-btn:focus {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -569,7 +629,7 @@ lapply(phylo.gamma.null[sample(1:1000, 3)], function(x){plot.phylo(x, show.tip.l
 sum(gamma.null &lt;= gammaStat(phylo.test.pb[[1]]))/1000
 sum(gamma.null &lt;= gammaStat(phylo.test.decel))/1000
 </code></pre>
-<p>Para variar um pouco e sair do mundo das simulações, vamos agora analisar o valor de <span class="math inline">\(\gamma\)</span> para uma árvore empírica. Para isso, baixem <a href="https://github.com/labmeme/labmeme.github.io/blob/master/phylo_fossil_vis_new.R">este arquivo</a> que contém uma filogenia de Viperidae (<a href="https://www.sciencedirect.com/science/article/pii/S1055790316301853">Alencar <em>et al.</em>, 2016, Mol. Phy. Evol.</a>), que vamos assumir que contém 100% da diversidade vivente.</p>
+<p>Para variar um pouco e sair do mundo das simulações, vamos agora analisar o valor de <span class="math inline">\(\gamma\)</span> para uma árvore empírica. Para isso, baixem <a href="https://github.com/labmeme/labmeme.github.io/blob/master/viper_tree.txt">este arquivo</a> que contém uma filogenia de Viperidae (<a href="https://www.sciencedirect.com/science/article/pii/S1055790316301853">Alencar <em>et al.</em>, 2016, Mol. Phy. Evol.</a>), que vamos assumir que contém 100% da diversidade vivente.</p>
 <pre class="r"><code>viper.tree &lt;- read.tree(&quot;viper_tree.txt&quot;)
 
 ## Visualizando a árvore
