@@ -22,40 +22,7 @@ understanding of biodiversity patterns and phenotypic evolution.
 
 # Post-docs
 
-### [Laura Alencar](http://alencarlaura.weebly.com/){:target="_blank"}
 
-#### alencarlrv@gmail.com
-
-<center><img src="/img/lrva.png" alt="Laura" style="width: 256px; height: 454px;"/></center>
-
-<p align="justify">
-My research combines natural history, morphological, geographical
-and phylogenetic information with the application of statistical
-models to understand the patterns and processes shaping the radiation
-of reptiles and amphibians. At LabMeMe we are currently investigating
-what determines the coexistence patterns among squamates at global and
-large-temporal scales.
-</p>
-
-
-### [Gustavo Burin](https://www.gburin.com){:target="_blank"}
-
-#### gustavoburin@usp.br
-
-<center><img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 341px;"/></center>
-
-<p align="justify">
-My main interests are related to trait-dependent diversification
-, and to how biological interactions affect the
-diversification dynamics of different groups. Ohter research interests
-are related to assessing the influence of total biomass availability
-(with Net Primary Productivity and Biome area as proxies) on the
-diversification of different groups of vertebrates, as well as trying
-to understand how some groups can achieve a huge species diversity. I am also interested in
-method development and performance testing. Lastly, I am an open
-science enthusiast, and want to start blogging about it, general science and
-my personal interests in the near future.
-</p>
 
 ***
 
@@ -126,6 +93,45 @@ understand macroevolutionary consequences of ecological interactions,
 more specifically, the interactions between immigrant and resident
 species and the role of these interactions in shaping diversification
 dynamics of mammalian lineages. I am now an associate professor at UNICAMP.
+</p>
+
+
+***
+
+### [Laura Alencar](http://alencarlaura.weebly.com/){:target="_blank"}
+
+#### alencarlrv@gmail.com
+
+<center><img src="/img/lrva.png" alt="Laura" style="width: 256px; height: 454px;"/></center>
+
+<p align="justify">
+My research combines natural history, morphological, geographical
+and phylogenetic information with the application of statistical
+models to understand the patterns and processes shaping the radiation
+of reptiles and amphibians. At LabMeMe we are currently investigating
+what determines the coexistence patterns among squamates at global and
+large-temporal scales.
+</p>
+
+***
+
+### [Gustavo Burin](https://www.gburin.com){:target="_blank"}
+
+#### gustavoburin@usp.br
+
+<center><img src="/img/gbf.jpg" alt="Gustavo" style="width: 256px; height: 341px;"/></center>
+
+<p align="justify">
+My main interests are related to trait-dependent diversification
+, and to how biological interactions affect the
+diversification dynamics of different groups. Ohter research interests
+are related to assessing the influence of total biomass availability
+(with Net Primary Productivity and Biome area as proxies) on the
+diversification of different groups of vertebrates, as well as trying
+to understand how some groups can achieve a huge species diversity. I am also interested in
+method development and performance testing. Lastly, I am an open
+science enthusiast, and want to start blogging about it, general science and
+my personal interests in the near future.
 </p>
 
 
