@@ -41,7 +41,7 @@ Luan has a general interest in macroevolution. In his masters thesis he is study
 ### Salatiel Gonçalves Neto
 
 <p align="justify">
-In his masters thesis he aims to investigate if the probability of extinction in Canidae is related to the lineage’s age by delimiting adaptive zones not phylogenetically or taxonomically, but ecologically.
+In my masters thesis I aim to investigate if the probability of extinction in Canidae is related to the lineage’s age by delimiting adaptive zones not phylogenetically or taxonomically, but ecologically.
 </p>
 
 ***
@@ -51,7 +51,7 @@ In his masters thesis he aims to investigate if the probability of extinction in
 <center><img src="/img/nc.jpeg" alt="Nathalia" style="width: 256px; height: 343px;"/></center>
 
 <p align="justify">
-I’m about to start soon my mastes programde and I am still trying to find my way through the
+I’m about to start soon my mastes programe and I am still trying to find my way through the
 fascinating world of macroevolution. As of now, my broader interests
 are: how extinction shapes biodiversity, mass extinctions aftermath
 and recovery of biodiversity, how biodiversity in the sea and in land
@@ -66,7 +66,8 @@ differ, and links between micro and macroevolution.
 ### Thais Piazza
 
 <p align="justify">
-text
+Thais undergraduate research aims to study what factors migth control the quality of the fossil record. More specifically, she will quantify how the quality of the fossil record varies among Carnivora (Mammalia) groups, investigate if fossil record quality shows phylogenetic signal, and if body size is associated with fossil record quality.
+  
 </p>
 
 ***
@@ -74,7 +75,8 @@ text
 ### Gloria Gillung
 
 <p align="justify">
-text
+Gloria undergraduate research aims to study interspecific competition and community assembly at local scale at deep time using the fossil record of Canidae.
+  
 </p>
 
 ***
@@ -85,12 +87,13 @@ text
 
 # Alumni
 
-### Daniel Caetano
+### [Daniel Caetano](https://caetanods.weebly.com/){:target="_blank"}
 
 #### caetanods1@gmail.com
 
 <p align="justify">
-text
+The central focus of my research is to understand the pattern and processes of trait evolution through long time scales using phylogenetic trees. My research is divided into development of new phylogenetic comparative models of trait evolution and empirical studies of macroevolution with multiple study systems.
+  
 </p>
 
 ***
@@ -154,9 +157,9 @@ dynamics of Ruminants.
 <center><img src="/img/rpg.jpg" alt="Rodolfo" style="width: 256px; height: 455px;"/></center>
 
 <p align="justify">
-During my time at USP I was working in comprehending the macroevolutionary
-processes that shaped diversity in deep time, with special focus on
-the Canidae (Mammalia) family.
+During my time at USP I worked in comprehending the macroevolutionary
+processes that shaped diversity in deep time, with special focus on studying how interspecific competition could affect 
+the diversification dynamics of Canidae (Mammalia).
 </p>
 
 
