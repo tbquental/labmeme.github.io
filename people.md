@@ -10,7 +10,7 @@ subtitle: Who we are
 
 #### tbquental@usp.br
 
-<center><img src="/img/tbq.jpg" alt="Tiago" style="width: 256px; height: 171px;"/></center>
+<center><img src="/img/tbq.jpg" alt="Tiago" style="width: 256px;"/></center>
 
 <p align="justify">
 I am an evolutionary biologist interested in a spatial and temporal
