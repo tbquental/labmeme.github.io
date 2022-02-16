@@ -13,7 +13,7 @@ subtitle: Who we are
 <center><img src="/img/tbq.jpg" alt="Tiago" style="width: 256px; height: 171px;"/></center>
 
 <p align="justify">
-I am an evolutionary ecologist interested in a spatial and temporal
+I am an evolutionary biologist interested in a spatial and temporal
 understanding of biodiversity patterns and phenotypic evolution.
 </p>
 
@@ -28,73 +28,70 @@ understanding of biodiversity patterns and phenotypic evolution.
 
 # Grad Students
 
-### Matheus Januario
+### Luan Motta
 
-#### mjlopessousa@gmail.com
-
-<center><img src="/img/mjls.png" alt="Matheus" style="width: 256px; height: 288px;"/></center>
+<center><img src="/img/photo_luan.jpg" alt="Luan" style="width: 256px; "/></center>
 
 <p align="justify">
-My aim is to understand the role of extinction in the diversification
-dynamics of Ruminants.
+Luan has a general interest in macroevolution. In his masters thesis he is studying the Great American Biotic Interchange (GABI) at a local/community scale.
 </p>
-
-### Rodolfo Graciotti
-
-#### rpgraciotti@gmail.com
-
-<center><img src="/img/rpg.jpg" alt="Rodolfo" style="width: 256px; height: 455px;"/></center>
-
-<p align="justify">
-I am an undergraduate student in Biology at the University of São
-Paulo. I am interested in comprehending the macroevolutionary
-processes that shaped diversity in deep time, with special focus on
-the Equidae (Mammalia) family.
-</p>
-
-
 
 ***
 
-# Undergrad Students
+### Salatiel Gonçalves Neto
+
+<p align="justify">
+In his masters thesis he aims to investigate if the probability of extinction in Canidae is related to the lineage’s age by delimiting adaptive zones not phylogenetically or taxonomically, but ecologically.
+</p>
+
+***
 
 ### Nathália Caldeira
 
 <center><img src="/img/nc.jpeg" alt="Nathalia" style="width: 256px; height: 343px;"/></center>
 
 <p align="justify">
-I’m an undergraduate student still trying to find my way through the
+I’m about to start soon my mastes programde and I am still trying to find my way through the
 fascinating world of macroevolution. As of now, my broader interests
 are: how extinction shapes biodiversity, mass extinctions aftermath
 and recovery of biodiversity, how biodiversity in the sea and in land
 differ, and links between micro and macroevolution.
 </p>
 
-### Luan Motta
+***
 
-<center><img src="/img/photo_luan.jpg" alt="Luan" style="width: 256px; "/></center>
+# Undergrad Students
+
+
+### Thais Piazza
 
 <p align="justify">
-Luan has just joined the lab and has a general interest in macroevolution.
+text
 </p>
-    
+
+***
+
+### Gloria Gillung
+
+<p align="justify">
+text
+</p>
+
+***
+
+
+
+
+
 # Alumni
 
-### [Mathias Pires](http://www.mathiasmpires.net.br){:target="_blank"}
+### Daniel Caetano
 
-#### mathiasmpires@gmail.com
-
-<center><img src="/img/mmp.jpg" alt="Indiana Jones de Bauru" style="width: 256px; height: 266px;"/></center>
+#### caetanods1@gmail.com
 
 <p align="justify">
-My main research interest is in the ecological causes and consequences
-of biological extinctions. My current research project aims to
-understand macroevolutionary consequences of ecological interactions,
-more specifically, the interactions between immigrant and resident
-species and the role of these interactions in shaping diversification
-dynamics of mammalian lineages. I am now an associate professor at UNICAMP.
+text
 </p>
-
 
 ***
 
@@ -108,9 +105,9 @@ dynamics of mammalian lineages. I am now an associate professor at UNICAMP.
 My research combines natural history, morphological, geographical
 and phylogenetic information with the application of statistical
 models to understand the patterns and processes shaping the radiation
-of reptiles and amphibians. At LabMeMe we are currently investigating
+of reptiles and amphibians. At LabMeMe we were investigating
 what determines the coexistence patterns among squamates at global and
-large-temporal scales.
+large-temporal scales.    
 </p>
 
 ***
@@ -134,6 +131,51 @@ science enthusiast, and want to start blogging about it, general science and
 my personal interests in the near future.
 </p>
 
+
+***
+
+### Matheus Januario
+
+#### mjlopessousa@gmail.com
+
+<center><img src="/img/mjls.png" alt="Matheus" style="width: 256px; height: 288px;"/></center>
+
+<p align="justify">
+My aim is to understand the role of extinction in the diversification
+dynamics of Ruminants.
+</p>
+
+***
+
+### Rodolfo Graciotti
+
+#### rpgraciotti@gmail.com
+
+<center><img src="/img/rpg.jpg" alt="Rodolfo" style="width: 256px; height: 455px;"/></center>
+
+<p align="justify">
+During my time at USP I was working in comprehending the macroevolutionary
+processes that shaped diversity in deep time, with special focus on
+the Canidae (Mammalia) family.
+</p>
+
+
+***
+
+### [Mathias Pires](http://www.mathiasmpires.net.br){:target="_blank"}
+
+#### mathiasmpires@gmail.com
+
+<center><img src="/img/mmp.jpg" alt="Indiana Jones de Bauru" style="width: 256px; height: 266px;"/></center>
+
+<p align="justify">
+My main research interest is in the ecological causes and consequences
+of biological extinctions. My current research project aims to
+understand macroevolutionary consequences of ecological interactions,
+more specifically, the interactions between immigrant and resident
+species and the role of these interactions in shaping diversification
+dynamics of mammalian lineages. I am now an associate professor at UNICAMP.
+</p>
 
 ***
 
