@@ -51,7 +51,7 @@ In my masters thesis I aim to investigate if the probability of extinction in Ca
 <center><img src="/img/nc.jpeg" alt="Nathalia" style="width: 256px; height: 343px;"/></center>
 
 <p align="justify">
-I’m about to start soon my mastes programe and I am still trying to find my way through the
+I’m about to start soon my masters programe and I am still trying to find my way through the
 fascinating world of macroevolution. As of now, my broader interests
 are: how extinction shapes biodiversity, mass extinctions aftermath
 and recovery of biodiversity, how biodiversity in the sea and in land
