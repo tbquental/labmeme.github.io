@@ -3,6 +3,40 @@ layout: page
 title: Publications
 subtitle: Main papers from the lab crew (highlighted in bold)
 ---
+
+
+## 2021
+
+[***Burin,G.***, Guimarães, P.R., ***Quental, T.B.*** 2021. Macroevolutionary Stability Predicts Interaction Patterns of Species in Seed Dispersal Networks. Science 372: 733-737](DOI: 10.1126/science.abf0556  ){:target="_blank"}
+
+
+[Januario M. & Quental T.B. 2021. Re-evaluation of the “law of constant extinction” for ruminants at different taxonomical scales. Evolution 75: 656-671](https://doi.org/10.1111/evo.14177){:target="_blank"}
+
+
+[L. R. V., Quental T. B. 2021. Linking population-level and microevolutionary processes to understand speciation dynamics at the macroevolutionary scale. Ecology & Evolution: 1-16.](https://doi.org/10.1002/ece3.7511){:target="_blank"}
+
+
+
+[Wendy A. Valencia-Montoya, Tiago B. Quental, João Filipe R. Tonini, Gerard Talavera, James D. Crall, Gerardo Lamas, Robert C. Busby, Ana Paula S. Carvalho, Ana B. Morais, Nicolás Oliveira Mega, Helena Piccoli Romanowski, Marjorie A. Liénard, Shayla Salzman, Melissa R. L. Whitaker, Akito Y. Kawahara, David J. Lohman, Robert K. Robbins and Naomi E. Pierce. 2021. Evolutionary trade-offs between male secondary sexual traits revealed by a phylogeny of the hyperdiverse tribe Eumaeini (Lepidoptera: Lycaenidae). Proceedings of the Royal Society B, v. 288, p. rspb.2020.251220202512](https://doi.org/10.1098/rspb.2020.2512){:target="_blank"}
+
+
+
+
+
+## 2019
+
+[***Alencar L. R. V., Quental T.B.***. 2019. Exploring the drivers of population structure across desert snakes can help to link micro and macroevolution. Molecular Ecology v. 28, p. 4529-4532, 2019](https://onlinelibrary.wiley.com/doi/10.1111/mec.15247   ){:target="_blank"}
+
+[***Burin G., Alencar L.R.V.***, Chang J., Alfaro M.E., ***Quental T.Q.*** 2019. How well can we estimate diversity dynamics for clades in diversity decline? Systematic Biology 68:47-62](https://doi.org/10.1093/sysbio/syy037){:target="_blank"}
+
+
+## 2018
+
+[***Pires MM***, Rankin BD, Silvestro D, ***Quental TB***. 2018 Diversification dynamics of mammalian clades during the K–Pg mass extinction. Biology Letters 14: 20180458![image](https://user-images.githubusercontent.com/25479098/154376698-ab6745ab-5118-4dc2-9cfa-3e2f8e654765.png)
+]( http://dx.doi.org/10.1098/rsbl.2018.0458){:target="_blank"}
+
+
+
 ## 2017
 
 [**Alencar, L. R. V.**, Martins, M., **Burin, G.**, **Quental, T. B.**, 2017. Arboreality constrains morphological evolution but not species diversification in vipers. Proceedings of the Royal Society B 284(1869), 20171775](http://rspb.royalsocietypublishing.org/content/284/1869/20171775){:target="_blank"}
