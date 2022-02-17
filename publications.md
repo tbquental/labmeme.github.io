@@ -32,8 +32,7 @@ subtitle: Main papers from the lab crew (highlighted in bold)
 
 ## 2018
 
-[***Pires MM***, Rankin BD, Silvestro D, ***Quental TB***. 2018 Diversification dynamics of mammalian clades during the K–Pg mass extinction. Biology Letters 14: 20180458![image](https://user-images.githubusercontent.com/25479098/154376698-ab6745ab-5118-4dc2-9cfa-3e2f8e654765.png)
-]( http://dx.doi.org/10.1098/rsbl.2018.0458){:target="_blank"}
+[***Pires MM***, Rankin BD, Silvestro D, ***Quental TB***. 2018 Diversification dynamics of mammalian clades during the K–Pg mass extinction. Biology Letters 14: 20180458]( http://dx.doi.org/10.1098/rsbl.2018.0458){:target="_blank"}
 
 
 
