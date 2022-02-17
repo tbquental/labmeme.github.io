@@ -7,17 +7,17 @@ subtitle: Main papers from the lab crew (highlighted in bold)
 
 ## 2021
 
-[***Burin,G.***, Guimarães, P.R., ***Quental, T.B.*** 2021. Macroevolutionary Stability Predicts Interaction Patterns of Species in Seed Dispersal Networks. Science 372: 733-737](DOI: 10.1126/science.abf0556  ){:target="_blank"}
+[***Burin,G.***, Guimarães, P.R., ***Quental, T.B.*** 2021. Macroevolutionary Stability Predicts Interaction Patterns of Species in Seed Dispersal Networks. Science 372: 733-737](https://www.science.org/doi/10.1126/science.abf0556){:target="_blank"}
 
 
-[Januario M. & Quental T.B. 2021. Re-evaluation of the “law of constant extinction” for ruminants at different taxonomical scales. Evolution 75: 656-671](https://doi.org/10.1111/evo.14177){:target="_blank"}
+[**Januario M. & Quental T.B.*** 2021. Re-evaluation of the “law of constant extinction” for ruminants at different taxonomical scales. Evolution 75: 656-671](https://doi.org/10.1111/evo.14177){:target="_blank"}
 
 
-[L. R. V., Quental T. B. 2021. Linking population-level and microevolutionary processes to understand speciation dynamics at the macroevolutionary scale. Ecology & Evolution: 1-16.](https://doi.org/10.1002/ece3.7511){:target="_blank"}
+[**L. R. V., Quental T. B.*** 2021. Linking population-level and microevolutionary processes to understand speciation dynamics at the macroevolutionary scale. Ecology & Evolution: 1-16.](https://doi.org/10.1002/ece3.7511){:target="_blank"}
 
 
 
-[Wendy A. Valencia-Montoya, Tiago B. Quental, João Filipe R. Tonini, Gerard Talavera, James D. Crall, Gerardo Lamas, Robert C. Busby, Ana Paula S. Carvalho, Ana B. Morais, Nicolás Oliveira Mega, Helena Piccoli Romanowski, Marjorie A. Liénard, Shayla Salzman, Melissa R. L. Whitaker, Akito Y. Kawahara, David J. Lohman, Robert K. Robbins and Naomi E. Pierce. 2021. Evolutionary trade-offs between male secondary sexual traits revealed by a phylogeny of the hyperdiverse tribe Eumaeini (Lepidoptera: Lycaenidae). Proceedings of the Royal Society B, v. 288, p. rspb.2020.251220202512](https://doi.org/10.1098/rspb.2020.2512){:target="_blank"}
+[Wendy A. Valencia-Montoya, **Tiago B. Quental***, João Filipe R. Tonini, Gerard Talavera, James D. Crall, Gerardo Lamas, Robert C. Busby, Ana Paula S. Carvalho, Ana B. Morais, Nicolás Oliveira Mega, Helena Piccoli Romanowski, Marjorie A. Liénard, Shayla Salzman, Melissa R. L. Whitaker, Akito Y. Kawahara, David J. Lohman, Robert K. Robbins and Naomi E. Pierce. 2021. Evolutionary trade-offs between male secondary sexual traits revealed by a phylogeny of the hyperdiverse tribe Eumaeini (Lepidoptera: Lycaenidae). Proceedings of the Royal Society B, v. 288, p. rspb.2020.251220202512](https://doi.org/10.1098/rspb.2020.2512){:target="_blank"}
 
 
 
