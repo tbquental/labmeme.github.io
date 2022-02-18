@@ -33,7 +33,7 @@ understanding of biodiversity patterns and phenotypic evolution.
 <center><img src="/img/photo_luan.jpg" alt="Luan" style="width: 256px; "/></center>
 
 <p align="justify">
-Luan has a general interest in macroevolution. In his masters thesis he is studying the Great American Biotic Interchange (GABI) at a local/community scale.
+In his master's thesis, Luan is focusing on the Great American Biotic Interchange (GABI) to investigate how the asymmetric interchange played out at local/community spatial scale. In particular, he is testing the hypothesis that the asymmetry is also dictated by the distance to the connection between the continents.
 </p>
 
 ***
