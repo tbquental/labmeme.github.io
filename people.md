@@ -105,12 +105,7 @@ The central focus of my research is to understand the pattern and processes of t
 <center><img src="/img/lrva.png" alt="Laura" style="width: 256px; height: 454px;"/></center>
 
 <p align="justify">
-My research combines natural history, morphological, geographical
-and phylogenetic information with the application of statistical
-models to understand the patterns and processes shaping the radiation
-of reptiles and amphibians. At LabMeMe we were investigating
-what determines the coexistence patterns among squamates at global and
-large-temporal scales.    
+Laura was a postdoctoral researcher from 2017 to 2019. She combines natural history, morphological, geographical and phylogenetic information with the application of statistical models to understand the patterns and processes shaping the radiation of vertebrates, mainly squamate reptiles. At LabMeMe, she explored the drivers of species coexistence dynamics in snakes and lizards. We also developed some ideas on how population and microevolutionary processes translate into macroevolutionary signals. She is currently a postdoctoral associate at <a href="https://marthamunoz.com/">Dr. Martha Muñoz’s lab </a> at Yale University.    
 </p>
 
 ***
