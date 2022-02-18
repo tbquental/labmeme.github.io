@@ -66,7 +66,7 @@ differ, and links between micro and macroevolution.
 ### Thais Piazza
 
 <p align="justify">
-Thais undergraduate research aims to study what factors migth control the quality of the fossil record. More specifically, she will quantify how the quality of the fossil record varies among Carnivora (Mammalia) groups, investigate if fossil record quality shows phylogenetic signal, and if body size is associated with fossil record quality.
+Thais' undergraduate research aims to study what factors migth control the quality of the fossil record. More specifically, she will quantify how the quality of the fossil record varies among Carnivora (Mammalia) groups, investigate if fossil record quality shows phylogenetic signal, and if body size is associated with fossil record quality.
   
 </p>
 
@@ -75,7 +75,7 @@ Thais undergraduate research aims to study what factors migth control the qualit
 ### Gloria Gillung
 
 <p align="justify">
-Gloria undergraduate research aims to study interspecific competition and community assembly at local scale at deep time using the fossil record of Canidae.
+Gloria's undergraduate research aims to study interspecific competition and community assembly at local scale at deep time using the fossil record of Canidae.
   
 </p>
 
