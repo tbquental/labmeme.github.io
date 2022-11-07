@@ -30,6 +30,8 @@ understanding of biodiversity patterns and phenotypic evolution.
 
 ### Gabriel Garcia
 
+***
+
 ### Luan Motta
 
 <center><img src="/img/photo_luan.jpg" alt="Luan" style="width: 256px; "/></center>
