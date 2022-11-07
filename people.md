@@ -22,11 +22,13 @@ understanding of biodiversity patterns and phenotypic evolution.
 
 # Post-docs
 
-
+### Lucas Porto
 
 ***
 
 # Grad Students
+
+### Gabriel Garcia
 
 ### Luan Motta
 
