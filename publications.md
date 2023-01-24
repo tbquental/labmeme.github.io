@@ -4,6 +4,19 @@ title: Publications
 subtitle: Main papers from the lab crew (highlighted in bold)
 ---
 
+## 2022
+
+[Petrucci, B.R., ***Januario, M., Quental, T.B.*** 2022. paleobuddy: An R package for flexible simulations of diversification and fossil sampling. Methods in Ecology and Evolution 13(12): 2692-2698](https://doi.org/10.1111/2041-210X.13996){:target="_blank"}
+
+
+[Hauffe, T.,  Pires, M.M., ***Quental, T.B.***, Wilke, T., Silvestro, D. 2022. A quantitative framework to infer the effect of traits, diversity and environment on dispersal and extinction rates from fossils. Methods in Ecology and Evolution 13(6): 1201-1213] (https://doi.org/10.1111/2041-210X.13845){:target="_blank"}
+
+
+[Cogni, R., ***Quental,T.B.***, Guimarães, P.R. 2022. Ehrlich and Raven escape and radiate coevolution hypothesis at different levels of organization: Past and future perspectives. Evolution 76(6): 1108-1123]( https://doi.org/10.1111/evo.14456){:target="_blank"}
+
+
+
+
 
 ## 2021
 
@@ -14,7 +27,6 @@ subtitle: Main papers from the lab crew (highlighted in bold)
 
 
 [**L. R. V., Quental T. B.*** 2021. Linking population-level and microevolutionary processes to understand speciation dynamics at the macroevolutionary scale. Ecology & Evolution: 1-16.](https://doi.org/10.1002/ece3.7511){:target="_blank"}
-
 
 
 [Wendy A. Valencia-Montoya, **Tiago B. Quental***, João Filipe R. Tonini, Gerard Talavera, James D. Crall, Gerardo Lamas, Robert C. Busby, Ana Paula S. Carvalho, Ana B. Morais, Nicolás Oliveira Mega, Helena Piccoli Romanowski, Marjorie A. Liénard, Shayla Salzman, Melissa R. L. Whitaker, Akito Y. Kawahara, David J. Lohman, Robert K. Robbins and Naomi E. Pierce. 2021. Evolutionary trade-offs between male secondary sexual traits revealed by a phylogeny of the hyperdiverse tribe Eumaeini (Lepidoptera: Lycaenidae). Proceedings of the Royal Society B, v. 288, p. rspb.2020.251220202512](https://doi.org/10.1098/rspb.2020.2512){:target="_blank"}
