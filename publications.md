@@ -4,6 +4,15 @@ title: Publications
 subtitle: Main papers from the lab crew (highlighted in bold)
 ---
 
+
+## 2023
+
+[Alencar, L.R.V. & ***Quental, T.B.***  2023. Geographical and ecological drivers of coexistence dynamics in squamate reptiles. Global Ecology and Biogeography. DOI: 10.1111/geb.13745](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13745) {:target="_blank"}
+
+
+[***Quental, T.B.*** & Pires, M.M. 2023. Clade-Level Interactions and Macroevolution. Oxford Bibliographies. DOI: 10.1093/OBO/9780199941728-0147] (https://www.oxfordbibliographies.com/display/document/obo-9780199941728/obo-9780199941728-0147.xml) {:target="_blank"}
+
+
 ## 2022
 
 [Petrucci, B.R., ***Januario, M., Quental, T.B.*** 2022. paleobuddy: An R package for flexible simulations of diversification and fossil sampling. Methods in Ecology and Evolution 13(12): 2692-2698](https://doi.org/10.1111/2041-210X.13996){:target="_blank"}
